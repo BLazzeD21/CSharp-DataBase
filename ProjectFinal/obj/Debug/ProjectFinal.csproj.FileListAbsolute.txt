@@ -1,0 +1,9 @@
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csprojResolveAssemblyReference.cache
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Form1.resources
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.Cache
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+Z:\Итоговая работа\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
